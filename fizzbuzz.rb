@@ -11,4 +11,5 @@ def fizzbuzz(int)
     puts "Buzz"
   else
     puts "nil"
+  end
 end
